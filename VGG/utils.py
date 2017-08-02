@@ -68,11 +68,11 @@ def load_image2(path, height=None, width=None):
 
 
 def test():
-    img = skimage.io.imread("./test_data/starry_night.jpg")
+    img = skimage.io.imread("./test_data/dog.png")
     ny = 300
     nx = img.shape[1] * ny / img.shape[0]
     img = skimage.transform.resize(img, (ny, nx))
-    skimage.io.imsave("./test_data/test/output.jpg", img)
+    skimage.io.imsave("./test_data/output.png", img)
 
 
 if __name__ == "__main__":
