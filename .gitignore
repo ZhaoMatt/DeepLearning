@@ -1,0 +1,16 @@
+/VGG_Fine-tuning/logs/vgg-finetuning/
+/VGG_Fine-tuning/CIFEv2.0.zip
+/VGG_Fine-tuning/vgg16.tflearn
+/VGG_Fine-tuning/checkpoint
+/VGG_Fine-tuning/vgg_finetune_emo.tfmodel.data-00000-of-00001
+/VGG_Fine-tuning/vgg_finetune_emo.tfmodel.index
+/VGG_Fine-tuning/vgg_finetune_emo.tfmodel.meta
+/VGG_Fine-tuning/vgg-finetuning-2600.data-00000-of-00001
+/VGG_Fine-tuning/vgg-finetuning-2600.index
+/VGG_Fine-tuning/vgg-finetuning-2600.meta
+/VGG_Fine-tuning/vgg-finetuning-2800.data-00000-of-00001
+/VGG_Fine-tuning/vgg-finetuning-2800.index
+/VGG_Fine-tuning/vgg-finetuning-2800.meta
+/VGG_Fine-tuning/webemo_ts/
+/VGG_Fine-tuning/webemo_tr/
+
